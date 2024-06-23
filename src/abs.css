@@ -1,0 +1,26 @@
+footer{
+    padding: 20px;
+    display:inline-block;
+    font-size: 40px;
+}
+.fb{
+    color: blue;
+}
+.wp{
+    color: green;
+}
+.yt{
+    color:red;
+}
+.in{
+    color:rgb(255, 0, 43);
+}
+.ci{
+    color:aqua;
+}
+.go{
+    color: red;
+}
+.cr{
+    background-color:blanchedalmond;
+}

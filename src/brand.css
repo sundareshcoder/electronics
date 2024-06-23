@@ -1,0 +1,16 @@
+
+.bna h6{
+    
+    text-transform: uppercase;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 20px;
+    color: red;
+    opacity: 0.9;
+    margin-left: 5px;
+    display:inline-block;
+}
+h2{
+    text-transform: capitalize;
+text-decoration: underline;
+}
