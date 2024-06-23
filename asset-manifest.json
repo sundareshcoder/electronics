@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/electronics/static/css/main.84bb7d55.css",
+    "main.js": "/electronics/static/js/main.c535f17d.js",
+    "index.html": "/electronics/index.html",
+    "main.84bb7d55.css.map": "/electronics/static/css/main.84bb7d55.css.map",
+    "main.c535f17d.js.map": "/electronics/static/js/main.c535f17d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84bb7d55.css",
+    "static/js/main.c535f17d.js"
+  ]
+}
